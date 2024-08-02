@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "162665420839",
+    "project_id": "fbase-c4bc1",
+    "storage_bucket": "fbase-c4bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162665420839:android:3dd0253507f82dc6411602",
+        "android_client_info": {
+          "package_name": "com.example.fbase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7PPfANK0LCmcuaNojMcjacLhPzeAzUfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162665420839:android:e55e06a56f05d553411602",
+        "android_client_info": {
+          "package_name": "com.example.fbaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7PPfANK0LCmcuaNojMcjacLhPzeAzUfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162665420839:android:a2a07482f1cb9ed1411602",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7PPfANK0LCmcuaNojMcjacLhPzeAzUfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
